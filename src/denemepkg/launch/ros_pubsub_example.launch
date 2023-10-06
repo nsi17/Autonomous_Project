@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="denemepkg" type="publisher_node.py" name="publisher_node" output="screen"></node>
+    <node pkg="denemepkg" type="subscriber_node.py" name="subscriber_node" output="screen"></node>
+</launch>
