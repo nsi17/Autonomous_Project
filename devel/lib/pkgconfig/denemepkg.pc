@@ -1,0 +1,8 @@
+prefix=/home/nsi/deneme_2/devel
+
+Name: denemepkg
+Description: Description of denemepkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
